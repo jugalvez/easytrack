@@ -1,0 +1,27 @@
+.btn-dark,
+.btn-dark:hover,
+.btn-dark:active,
+.btn-dark:visited,
+.btn-success,
+.btn-success:hover
+.btn-success:active
+.btn-success:visited {
+	background: #e2e0ce !important;
+	color: #9f713a !important;
+	border-color: #9f713a !important;
+}
+
+.btn-danger,
+.btn-danger:hover,
+.btn-info,
+.btn-info:hover {
+	background: #e4d19b !important;
+	color: #9f713a !important;
+	border-color: #9f713a !important;
+}
+
+
+.btn-primary {
+	background: #9f713a !important;
+	border-color: #9f713a !important;
+}

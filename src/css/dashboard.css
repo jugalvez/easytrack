@@ -1,0 +1,13 @@
+.Dashboard-thumb {
+	width: 50px;
+}
+
+.navbar  {
+	background-color: #e4d19b !important;
+}
+
+.nav-link {
+	transition: all .2s ease;
+	font-weight: 500;
+}
+
